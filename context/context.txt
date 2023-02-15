@@ -20,13 +20,7 @@ PUBLIC KEY
 
 090adb2b7c281f6736a2ec7a633236c6091a71af5c0176684711ea0b55fd08e4
 
-TOKEN 
-MTA3NDc2ODUyOTQwNjA0MjE3Mg.GsUyqt.KlR1GaSQRGwa-C9Vy5Xc-GLJp2AhrkZttmWnao
 
-CLIENT ID
-1074721628870672395
-
-MTA3NDcyMTYyODg3MDY3MjM5NQ.GZyK_Z.dsI4lGiu1WAKUREeyl98Y-_rM0zXaS4SE8pAq8
 
 
 
@@ -75,4 +69,5 @@ The command handler, which dynamically reads the files and executes the commands
 The command deployment script, to register your slash commands with Discord so they appear in the interface.
 
 
+:wq
 
